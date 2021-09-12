@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Mangesh-Panchal
 - 👀 I’m interested in Robotics and Artificial Intelligence field.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - mangesh142000@gmail.com
 
 <!---
